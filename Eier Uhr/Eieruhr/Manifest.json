@@ -1,0 +1,10 @@
+{
+    "name": "Eieruhr",
+    "short_name": "Timer",
+    "theme_color": "#ffff00",
+    "background_color": "#000000",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+  }
